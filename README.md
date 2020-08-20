@@ -1,1 +1,1 @@
-# laravel-qa
+# laravel-qa with vuejs fullstack
